@@ -12,6 +12,8 @@ public class Example03Application {
 		//===Per configurare
 		System.out.println("Modifica_02");
 		System.out.println("Modifica_03");
+		System.out.println("Modifica_04");
+		System.out.println("Modifica_05");
 	}
 
 }
