@@ -17,6 +17,7 @@ public class PersonalController {
 	}	
 	
 	
+	
 	@GetMapping("/loginPage")
 	public String pagLogin(ModelMap mm) {
 		mm.addAttribute("title","Pagina Di Login");
